@@ -12,13 +12,13 @@ const developer = {
 ```
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/) 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]() 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/siyamahmed76)
-[![daily.dev](https://img.shields.io/badge/daily.dev-%231572B6.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23001E3C.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![daily.dev](https://img.shields.io/badge/daily.dev-%231572B6.svg?logo=daily.dev&logoColor=white)]()
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23001E3C.svg?logo=tryhackme&logoColor=white)]()
 
 ## 📊 GitHub Analytics
 
