@@ -4,11 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 
-- 🔭 I’m currently working on [Programing,termux](https://www.youtube.com/@wasim-360)
-
-- 👨‍💻 All of my projects are available at [https://mez.ink/bdwasim007](https://mez.ink/bdwasim007)
-
-- 📝 My Blogger Side [https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj](https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab
 
 
 <h3 align="left">Connect with me:</h3>
