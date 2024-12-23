@@ -1,3 +1,24 @@
+![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
+
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+    Welcome To ヅ 𝑺𝑰𝒀𝑨𝑴 ៚ Profile  
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+</h3>
+
+<center>
+
+  
+<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
+<center>
+  
+<a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
+<a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a>
+<a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
+ 
+  __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
+
+
 
 <h1 align="center">Hi 👋, I'm. 
   ヅ 𝑺𝑰𝒀𝑨𝑴 ៚</h1>
