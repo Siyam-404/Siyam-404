@@ -4,7 +4,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
     Welcome To ヅ 𝑺𝑰𝒀𝑨𝑴 ៚ Profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>
+</h3>>
 
 <center>
 
@@ -22,8 +22,11 @@
 
 <h1 align="center">Hi 👋, I'm. 
   ヅ 𝑺𝑰𝒀𝑨𝑴 ៚</h1>
+  
 <h3 align="center">A programmer & Hacker Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
+<img align="right" alt="coding" width="800" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 
 
