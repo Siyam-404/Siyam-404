@@ -5,13 +5,20 @@
     Welcome To ヅ 𝑺𝑰𝒀𝑨𝑴 ៚ Profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
 </h3>>
-
+<h3 align="center">
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+A Programmer & Hacker Bangladesh 
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+</h3>
 <center>
 
   
-<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
+<img src="https://raw.githubusercontent.com/Siyam-404/Siyam-404/refs/heads/main/Image/121397589.jpeg" width="500" height="580" align="right">
 <center>
   
+
+
+
 <a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a>
 <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
@@ -19,15 +26,11 @@
 
 
 
-<h3 align="center">
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-A Programmer & Hacker Bangladesh 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>
+
   
 <center>
   
-<img align="right" alt="coding" width="800" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 
