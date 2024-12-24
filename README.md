@@ -19,16 +19,6 @@ A Programmer & Hacker Bangladesh
 
 
 
-<a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
-<a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a>
-<a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
- 
-
-
-
-
-  
-<center>
   
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
