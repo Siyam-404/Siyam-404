@@ -1,23 +1,11 @@
 ![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
-
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-    Welcome To ヅ 𝑺𝑰𝒀𝑨𝑴 ៚ Profile 
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>>
-<h3 align="center">
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-A Programmer & Hacker Bangladesh 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>
-<center>
-  
+ 
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 
 # 💫 About Me:
-I'm Siyam, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀<br>🌱 I’m currently learning Hyperledger and Kubernetes<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
+I'm Siyam, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀<br>🌱 I’m currently learning Hyperledger and Kubernetes<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
 
 
 ## 🌐 Socials:
